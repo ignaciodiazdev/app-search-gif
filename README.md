@@ -1,3 +1,13 @@
-# Aplicación de Buscador de Gif's 
+# 🔎 Aplicación de Buscador de Gif's 
 
-Esta aplicación permite al usuario encontrar los GIF's que desee, tan solo poner un nombre o tema relacionado a un Gif y la aplicación hará la búsqueda y se lo mostrará.
+Esta aplicación permite al usuario encontrar los GIF's que desee 😎
+
+<h3>#Búsqueda</h3>
+<p>El usuario digita alguna palabra o tema, y da Enter.</p>
+<br>
+<img src="https://imgur.com/Z2vWZPM" alt="Paso1">
+<br>
+<h3>#Resultados</h3>
+<p>La aplicación mostrará los 10 Gif's más populares al tema buscado.</p>
+<br>
+<img src="https://imgur.com/bex9oid" alt="Paso2" >
